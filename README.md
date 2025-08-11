@@ -32,6 +32,11 @@ The database is designed to:
 
 ## Database Design 🗂️
 
+### Entity Relationship Diagram
+The database schema is visualized in the Entity Relationship Diagram (ERD) below:
+
+![ERD Final](media/ERD%20Final.png)
+
 ### Entities and Relationships
 
 #### User 👤
